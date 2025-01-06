@@ -11,11 +11,13 @@ Mod By EZ-Code
 <p align="center"><img src="https://d33wubrfki0l68.cloudfront.net/5911c43be3b1da526ed609e9c55783d9d0f6b066/9858b/assets/img/debian-ubuntu-hover.png"width="400"></p> 
 <p align="center">
 <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=debian&label=Debian%2010&message=Buster&color=purple">  
-<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=debian&label=Debian%2011&message=bullseye&color=purple"> 
-<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=debian&label=Debian%2012&message=bullseye&color=purple"> 
+<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=debian&label=Debian%2011&message=Bullseye&color=purple"> 
+<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=debian&label=Debian%2012&message=BookWorm&color=purple"> 
 <p align="center">
 <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=ubuntu%2018.04 LTS&message=Bionic Beaver&color=red"> 
-<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=ubuntu%2020.04 LTS&message=Focal Fossa&color=red"> 
+<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=ubuntu%2020.04 LTS&message=Focal Fossa&color=red">
+<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=ubuntu%2022.04 LTS&message=Jammy Jellyfih&color=red">
+<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=ubuntu%2024.04 LTS&message=Noble Numbat&color=red">
 </p>
 
 
@@ -50,7 +52,7 @@ PLEASE MAKE SURE YOUR DOMAIN SETTINGS IN YOUR CLOUDFLARE AS BELOW (SSL/TLS SETTI
   ```html
  apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot
   ```
-  ♦️ For Ubuntu 18.04 / 20.04 For First Time Installation (Update Repo) <br>
+  ♦️ For Ubuntu 18.04 / 20.04 / 22.04 / 24.04 For First Time Installation (Update Repo) <br>
   
   ```html
  apt-get update && apt-get upgrade -y && apt dist-upgrade -y && update-grub && reboot
