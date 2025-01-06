@@ -68,7 +68,7 @@ apt --fix-missing update && apt update && apt upgrade -y && apt install -y bzip2
 ✅ SSH DROPBEAR 143/109<br>
 ✅ SSH SLOW DNS 443/80<br>
 ✅ SSH STUNNEL 222/777<br>
-✅ OPEN VPN TCP,UDP,SSL 1194/2200/110/<br>
+✅ OPEN VPN TCP,UDP,SSL 1194/2200/110<br>
 ✅ OHP SSH 8585/8686<br>
 ✅ OHP OPEN VPN 8787<br>
 ✅ SSH WEBSOCKET TLS & NON-TLS 443/80<br>
