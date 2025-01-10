@@ -90,12 +90,15 @@ apt --fix-missing update && apt update && apt upgrade -y && apt install -y bzip2
 ✅ RAM MONITOR <br>
 ✅ XRAY-CORE UPDATE <br>
 ✅ REPLACE DOMAIN NAME <br>
+✅ POINTING DOMAIN NAME <br>
 ✅ CHECK LOGIN USER <br>
 ✅ CHECK CREATED CONFIG <br>
 ✅ AUTOMATIC CLEAR LOG <br>
 ✅ AUTOMATIC VPS REBOOT <br>
 ✅ BACKUP & RESTORE <br>
 ✅ VIRTUAL SWAPRAM <br>
+✅ IPV6 OFF <br>
+✅ TURN ON/OFF MULTILOGIN OPENVPN <br>
 ✅ TIMEZONE : Asia/Kuala Lumpur (GMT +8) <br>
 </br>
 
