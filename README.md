@@ -64,6 +64,14 @@ apt --fix-missing update && apt update && apt upgrade -y && apt install -y bzip2
   ```
 <b>
 
+MAIN MENU
+
+![photo_2025-01-10_20-08-50](https://github.com/user-attachments/assets/19bb5b7b-dcb1-44a5-a3aa-f22b96e9c7f7)
+
+SYSTEM MENU
+
+
+
 [ SERVICES ] <br>
 <br>
 ✅ OPEN SSH 22<br>
