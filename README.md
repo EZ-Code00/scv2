@@ -108,7 +108,6 @@ SYSTEM MENU
 ✅ IPV6 OFF <br>
 ✅ TURN ON/OFF MULTILOGIN OPENVPN <br>
 ✅ TURN ON/OFF MULTIPATH XRAY <br>
-✅ TIMEZONE : Asia/Kuala Lumpur (GMT +8) <br>
 </br>
 
 
