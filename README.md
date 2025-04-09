@@ -66,7 +66,7 @@ apt --fix-missing update && apt update && apt upgrade -y && apt install -y bzip2
 
 MAIN MENU
 
-![photo_2025-01-10_20-08-50](https://github.com/user-attachments/assets/19bb5b7b-dcb1-44a5-a3aa-f22b96e9c7f7)
+![Image](https://github.com/user-attachments/assets/361fa78f-cd4b-407a-94c3-0e3c87939913)
 
 SYSTEM MENU
 
