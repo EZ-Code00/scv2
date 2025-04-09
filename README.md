@@ -70,7 +70,7 @@ MAIN MENU
 
 SYSTEM MENU
 
-![photo_2025-01-10_20-08-49](https://github.com/user-attachments/assets/702db6e6-d3e4-4064-bd37-db8827afa91b)
+![Image](https://github.com/user-attachments/assets/de71c193-4ba7-49d8-8c24-7d1ac5100938)
 
 [ SERVICES ] <br>
 <br>
