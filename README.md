@@ -120,7 +120,7 @@ SYSTEM MENU
 
 [Group EZ-Code](COMING SOON)
 
-[Channel EZ-Code-Code](COMING SOON)
+[Channel EZ-Code](COMING SOON)
 
 ## Credit :
 
