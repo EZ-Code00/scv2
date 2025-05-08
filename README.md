@@ -68,9 +68,6 @@ MAIN MENU
 
 ![Image](https://github.com/user-attachments/assets/361fa78f-cd4b-407a-94c3-0e3c87939913)
 
-SYSTEM MENU
-
-![Image](https://github.com/user-attachments/assets/de71c193-4ba7-49d8-8c24-7d1ac5100938)
 
 [ SERVICES ] <br>
 <br>
