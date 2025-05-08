@@ -14,10 +14,10 @@ Created By EZ-Code
 <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=debian&label=Debian%2011&message=Bullseye&color=purple"> 
 <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=debian&label=Debian%2012&message=BookWorm&color=purple"> 
 <p align="center">
-<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=ubuntu%2018.04 LTS&message=Bionic Beaver&color=red"> 
-<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=ubuntu%2020.04 LTS&message=Focal Fossa&color=red">
-<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=ubuntu%2022.04 LTS&message=Jammy Jellyfih&color=red">
-<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=ubuntu%2024.04 LTS&message=Noble Numbat&color=red">
+<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=Ubuntu%2018&message=Lts&color=red"> 
+<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=Ubuntu%2020.04&message=Lts&color=red"> 
+<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=Ubuntu%2022.04&message=Lts&color=red"> 
+<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=Ubuntu%2024.04&message=Lts&color=red"> 
 </p>
 
 
