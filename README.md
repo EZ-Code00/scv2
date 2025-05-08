@@ -66,7 +66,7 @@ apt --fix-missing update && apt update && apt upgrade -y && apt install -y bzip2
 
 MAIN MENU
 
-![Image](https://github.com/user-attachments/assets/361fa78f-cd4b-407a-94c3-0e3c87939913)
+![Image](https://github.com/user-attachments/assets/3f647f6b-d5ce-4774-b015-31221b9815b4)
 
 
 [ SERVICES ] <br>
@@ -75,18 +75,16 @@ MAIN MENU
 ✅ SSH DROPBEAR 143/109<br>
 ✅ SSH SLOW DNS 443/80<br>
 ✅ SSH STUNNEL5 222/777<br>
+✅ SSH UDP CUSTOM 1-65535<br>
 ✅ OPEN VPN TCP,UDP,SSL 1194/2200/110<br>
 ✅ OHP SSH 8585/8686<br>
 ✅ OHP OPEN VPN 8787<br>
 ✅ SSH WEBSOCKET TLS & NON-TLS 443/80<br>
 ✅ SQUID PROXY 8080/3128<br>
 ✅ XRAY VMESS & VLESS WEBSOCKET TLS & NON-TLS 443/80<br>
-✅ XRAY VMESS & VLESS XHTTP TLS & NON-TLS 443/80<br>
-✅ XRAY VMESS & VLESS HTTP-UPGRADE TLS & NON-TLS 443/80<br>
+✅ XRAY VLESS XTLS VISION 443<br>
 ✅ XRAY TROJAN WEBSOCKET TLS & NON-TLS 443/80<br>
-✅ XRAY TROJAN GRPC TLS TLS 443<br>
 ✅ WIREGUARD 5820<br>
-✅ SHADOSOCKS OBFS HTTP,HTTPS 2443/3443<br>
 <br>
 
 [ OTHER SERVICES ] <br>
@@ -104,7 +102,6 @@ MAIN MENU
 ✅ BACKUP & RESTORE <br>
 ✅ TOTAL USER MONITOR <br>
 ✅ TURN ON/OFF MULTILOGIN OPENVPN <br>
-✅ TURN ON/OFF MULTIPATH XRAY <br>
 </br>
 
 
