@@ -46,21 +46,34 @@ PLEASE MAKE SURE YOUR DOMAIN SETTINGS IN YOUR CLOUDFLARE AS BELOW (SSL/TLS SETTI
 
 ## Commands : <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=powershell&label=Shell&message=Bash%20Script&color=lightgray">
 
-<br>
-♦️ For Debian 10 / 11 / 12 For First Time Installation (Update Repo) <br>
+### CLEAR INSTALLER SCRIPT IN YOUR VPS THANKS FOR BIN456789
+### rebuild deb 10 selain do
 
-  ```html
- apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot
-  ```
-  ♦️ For Ubuntu 18.04 / 20.04 / 22.04 / 24.04 For First Time Installation (Update Repo) <br>
+<pre><code>curl -O https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh && bash reinstall.sh Debian 10 && reboot</code></pre>
+### rebuil deb 11
+
+<pre><code>curl -O https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh && bash reinstall.sh Debian 11 && reboot</code></pre>
+### rebuild deb 12
+
+<pre><code>curl -O https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh && bash reinstall.sh Debian 12 && reboot</code></pre>
+### rebuild ubuntu 20.04
+
+<pre><code>curl -O https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh && bash reinstall.sh Ubuntu 20.04 && reboot</code></pre>
+### rebuild ubuntu 22
+
+<pre><code>curl -O https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh && bash reinstall.sh Ubuntu 22 && reboot</code></pre>
+### rebuild ubuntu 24
+
+<pre><code>curl -O https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh && bash reinstall.sh Ubuntu 24.04 && reboot</code></pre>
+### For Debian 10 / 11 / 12 For First Time Installation (Update Repo)
+
+<pre><code>apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot</code></pre>
+### For Ubuntu 18.04 / 20.04 / 22.04 / 24.04 For First Time Installation (Update Repo)
   
-  ```html
- apt-get update && apt-get upgrade -y && apt dist-upgrade -y && update-grub && reboot
- ```
-♦️ Installation Link <br>
+<pre><code>apt-get update && apt-get upgrade -y && apt dist-upgrade -y && update-grub && reboot</code></pre>
+### Installation Link
 
-  ```html
-apt --fix-missing update && apt update && apt upgrade -y && apt install -y bzip2 gzip coreutils screen dpkg wget vim curl nano zip unzip && wget -q https://raw.githubusercontent.com/EZ-Code00/scv2/main/setup.sh && chmod +x setup.sh && screen -S setup ./setup.sh
+<pre><code>apt --fix-missing update && apt update && apt upgrade -y && apt install -y bzip2 gzip coreutils screen dpkg wget vim curl nano zip unzip && wget -q https://raw.githubusercontent.com/EZ-Code00/scv2/main/setup.sh && chmod +x setup.sh && screen -S setup ./setup.sh</code></pre>
   ```
 <b>
 
